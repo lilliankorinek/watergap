@@ -20,4 +20,6 @@ Issues: There is an issue somewhere in the code regarding the pathway between vi
 Future Plans: The navigation bar needs to be changed. Currently it is awkward and difficult to see when scrolling through different sections. 
 
 A data section needs to be added to showcase consumers' responses to the Twilio survey. The development of that can be found at the link 
-here: 
+here: https://github.com/lilliankorinek/TwilioDemo
+
+I'll be adding onto this project pretty regularly! Hopefully I can figure out a better system with this slow internet! Happy summer!
