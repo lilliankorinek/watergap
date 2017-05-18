@@ -1,0 +1,28 @@
+{
+  "name": "watergap",
+  "version": "1.0.0",
+  "description": "Final project for intro to web development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilliankorinek/FINAL.git"
+  },
+  "author": "Lillian Korinek; contributions by Mimi Doan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilliankorinek/FINAL/issues"
+  },
+  "homepage": "https://github.com/lilliankorinek/FINAL#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.2",
+    "express-mustache": "^1.0.3",
+    "jquery": "^3.2.1",
+    "mustache": "^2.3.0",
+    "mustache-express": "^1.2.4",
+    "progressbar.js": "^1.0.1"
+  }
+}
